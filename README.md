@@ -1,6 +1,6 @@
 <div align="center">
 
-# Por-Dashboard
+# 🛒Por-Dashboard
 
 ### Modern Sales & Inventory Management System
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 About the Project
+##  About the Project
 
 Por-Dashboard is a modern sales and inventory management system designed to help retail stores and businesses manage their daily operations more efficiently. The system was developed to simplify product management, sales processing, stock control, customer management, and business reporting within a single platform. It helps reduce operational complexity, minimize human errors, and improve the overall efficiency of store management.
 
@@ -16,7 +16,7 @@ The system allows business owners to manage products, monitor inventory movement
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Manage products and inventory accurately  
 - Simplify and speed up sales operations  
@@ -27,7 +27,7 @@ The system allows business owners to manage products, monitor inventory movement
  
 ---
 
-## 🚀 Benefits of the System
+##  Benefits of the System
 
 - Improves customer service speed and efficiency  
 - Reduces time spent managing inventory  
@@ -37,7 +37,7 @@ The system allows business owners to manage products, monitor inventory movement
   
 ---
 
-## 👨‍💼 Target Users
+##  Target Users
 
 This system is suitable for:
 
@@ -49,7 +49,7 @@ This system is suitable for:
 
 ---
 
-## 🎨 Tools & Design
+##  Tools & Design
 
 - Figma  
 - UI/UX Design  
@@ -57,7 +57,7 @@ This system is suitable for:
 - Dashboard Design     
 
 ---
-## 🎨 Color Palette
+##  Color Palette
 
 |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|
@@ -68,29 +68,186 @@ This system is suitable for:
 | ![](https://img.shields.io/badge/-%23D4D4D4-D4D4D4?style=for-the-badge) | ![](https://img.shields.io/badge/-%23BFBFBF-BFBFBF?style=for-the-badge) | ![](https://img.shields.io/badge/-%23767676-767676?style=for-the-badge) | ![](https://img.shields.io/badge/-%235B5B5B-5B5B5B?style=for-the-badge) | ![](https://img.shields.io/badge/-%23000000-000000?style=for-the-badge) | ![](https://img.shields.io/badge/-%231E1E1E-1E1E1E?style=for-the-badge) | ![](https://img.shields.io/badge/-%23D3A303-D3A303?style=for-the-badge) | ![](https://img.shields.io/badge/-%23FF0000-FF0000?style=for-the-badge) | ![](https://img.shields.io/badge/-%232C8F43-2C8F43?style=for-the-badge) |
 
 --- 
-## 🔗 Prototype & Design
+##  Prototype & Design
 
 Explore the full UI/UX design and interactive prototype on Figma: [View Figma Prototype](https://www.figma.com/design/NCBg24kFyNLNxW0G2bwxk4/Bookband-prodashboard?node-id=1-2&p=f&t=8gBGGacd3jFN4hoA-0)
 
 --- 
 
-## 📸 Screenshots
+##  UI Preview
 
-### 🔐 Login Page
-Modern and clean login interface design.
+###  Login
+Allows users to securely access the system using username and password authentication.
 
-![Login](assets/login.png)
-
----
-
-### 📊 Dashboard
-Overview dashboard for sales and inventory management.
-
-![Dashboard](assets/dashboard.png)
+<div align="center">
+  <img src="assets/Login.png" width="300"/>
+</div>
 
 ---
 
-### 📦 Product Management
-Product and stock management interface.
+###  Product Sales
+Manage sales transactions, add products to invoices, calculate totals automatically, select payment methods, and print sales documents.
 
-![Product](assets/product.png)
+<div align="center">
+  <img src="assets/ProductSales.png" width="600"/>
+</div>
+
+---
+
+###  Settings
+Configure store information, system preferences, sales settings, and business details within the application.
+
+<div align="center">
+  <img src="assets/Settings.png" width="600"/>
+</div>
+
+---
+
+###  Product Brand
+Manage and organize product brand information within the system.
+
+<div align="center">
+  <img src="assets/ProductBrand.png" width="600"/>
+</div>
+
+---
+
+###  Product Management
+Add, edit, delete, and manage product information and inventory stock.
+
+<div align="center">
+  <img src="assets/ProductManagement.png" width="600"/>
+</div>
+
+---
+
+###  Customer Management
+Manage customer information, contact details, and customer records within the system.
+
+<div align="center">
+  <img src="assets/CustomerManagement.png" width="600"/>
+</div>
+
+---
+
+###  Data Backup
+Create and restore system backup files to protect important business data.
+
+<div align="center">
+  <img src="assets/DataBackup.png" width="600"/>
+</div>
+
+---
+
+###  Clear All Data
+Reset and Delete All System Data.
+<div align="center">
+  <img src="assets/ClearAllData.png" width="600"/>
+</div>
+
+---
+
+###  Program Registration
+Register and activate the program license using registration and system information.
+<div align="center">
+  <img src="assets/ProgramRegistration.png" width="600"/>
+</div>
+
+---
+
+###  Receive Ordered Products
+Manage received products from suppliers and update inventory stock automatically.
+
+<div align="center">
+  <img src="assets/ReceiveOrderedProducts.png" width="600"/>
+</div>
+
+---
+
+###  Cancel Sales Invoice
+Cancel or void incorrect sales invoices and update inventory automatically.
+
+<div align="center">
+  <img src="assets/CancelSales Invoice.png" width="600"/>
+</div>
+
+---
+
+###  Custom Barcode Creation
+Generate, manage, and print custom barcodes for products within the system.
+
+<div align="center">
+  <img src="assets/CustomBarcode Creation.png" width="600"/>
+</div>
+
+---
+
+###  Debt Payment Receipt
+Manage customer debt payments and view payment status information within the system.
+
+<div align="center">
+  <img src="assets/DebtPayment Receipt.png" width="600"/>
+</div>
+
+---
+
+###  View Outstanding Debtors Report
+Display outstanding customer debts and unpaid transaction reports.
+
+<div align="center">
+  <img src="assets/ViewOutstandingDebtorsReport.png" width="600"/>
+</div>
+
+---
+
+###  Print Document Copy
+Print duplicate sales documents and configure printing options within the system.
+
+<div align="center">
+  <img src="assets/PrintDocumentCopy.png" width="600"/>
+</div>
+
+---
+
+###  View Inventory Report
+View and manage inventory stock reports, search product information, and monitor remaining stock levels.
+
+<div align="center">
+  <img src="assets/ViewInventoryReport.png" width="600"/>
+</div>
+
+---
+
+###  View Product Sales Summary Report
+View sales summary reports, track total sales, discounts, and payment information within the system.
+
+<div align="center">
+  <img src="assets/ViewProductSalesSummaryReport.png" width="600"/>
+</div>
+
+---
+
+###  View Cash Shift Summary Report
+View daily cash shift summaries, payment details, and total sales information by user.
+
+<div align="center">
+  <img src="assets/ViewCashShiftSummaryReport.png" width="600"/>
+</div>
+
+---
+
+###  View Purchase and Sales Tax Summary Report
+View purchase and sales tax summaries, including VAT calculations and total transaction amounts.
+
+<div align="center">
+  <img src="assets/ViewPurchaseandSalesTaxSummaryReport.png" width="600"/>
+</div>
+
+---
+
+###  View Product Sales Statistics Graph Report
+Display product sales statistics and analytics in graphical format.
+
+<div align="center">
+  <img src="assets/ViewProductSalesStatisticsGraphReport.png" width="600"/>
+</div>
