@@ -71,3 +71,26 @@ This system is suitable for:
 ## 🔗 Prototype & Design
 
 Explore the full UI/UX design and interactive prototype on Figma: [View Figma Prototype](https://www.figma.com/design/NCBg24kFyNLNxW0G2bwxk4/Bookband-prodashboard?node-id=1-2&p=f&t=8gBGGacd3jFN4hoA-0)
+
+--- 
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+Modern and clean login interface design.
+
+![Login](assets/login.png)
+
+---
+
+### 📊 Dashboard
+Overview dashboard for sales and inventory management.
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+### 📦 Product Management
+Product and stock management interface.
+
+![Product](assets/product.png)
